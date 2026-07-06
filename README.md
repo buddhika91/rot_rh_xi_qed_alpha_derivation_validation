@@ -108,8 +108,6 @@ python rot_rh_xi_qed_alpha_derivation_validation.py `
 
 ## What the Script Produces
 
-The script generates only validation data files, not manuscript or email files.
-
 Typical outputs include:
 
 ```text
